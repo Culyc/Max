@@ -1,0 +1,1 @@
+$(document).ready(function(){var e=document.querySelector(".icon-menu"),t=document.querySelector("body"),c=document.querySelector(".menu__body");e&&e.addEventListener("click",function(){e.classList.toggle("active"),t.classList.toggle("lock"),c.classList.toggle("active")})});
